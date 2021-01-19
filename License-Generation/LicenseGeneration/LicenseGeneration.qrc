@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/LicenseGeneration">
+        <file>Resources/key.png</file>
+    </qresource>
+</RCC>
